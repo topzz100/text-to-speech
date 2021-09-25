@@ -4,7 +4,8 @@
   box-sizing: border-box;
 }
 body{
-  background: blue;
+  background: black;
+  color: white;
 }
 .container{
   width: 40%;
